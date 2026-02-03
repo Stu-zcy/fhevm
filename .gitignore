@@ -1,0 +1,3 @@
+/coprocessor/fhevm-engine/target
+/host-contracts/node_modules/
+/kms-connector/target
